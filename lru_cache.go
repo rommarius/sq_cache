@@ -22,7 +22,7 @@
 // The "sq_cache" package is a highly efficient, flexible caching library designed to enhance data retrieval and memory
 // management in applications that require fast data access. It provides a robust solution to caching with a focus on
 // optimizing both speed and memory usage. Using the Least Recently Used (LRU) eviction strategy, "sq_cache" ensures
-// that the least recently accessed cache entries are evicted when the cache reaches its capacity, making it an ideal
+// that tshe least recently accessed cache entries are evicted when the cache reaches its capacity, making it an ideal
 // choice for high-performance caching scenarios.
 //
 // The powerful library is suitable for applications requiring high-performance caching with fine-tuned memory
