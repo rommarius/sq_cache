@@ -39,7 +39,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/mariusromeiser/sq_config_combine"
+	"github.com/rommarius/sq_config_combine"
 )
 
 // CacheStatus defines the status of the cache.

@@ -35,7 +35,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mariusromeiser/generic_syncpool"
+	"github.com/rommarius/generic_syncpool"
 )
 
 // lruCacheShard represents a non thread-safe lru (Least Recently Used) cache shard.
